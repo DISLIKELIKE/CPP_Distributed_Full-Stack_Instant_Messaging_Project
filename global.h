@@ -1,8 +1,6 @@
 #ifndef GLOBAL_H
 #define GLOBAL_H
 #include <QWidget>
-#include <functional>
-#include "QStyle"
 #include <memory>
 #include <QJsonObject>
 #include <QJsonDocument>
